@@ -1,3 +1,7 @@
+/**
+ * Given a integer , return corresponding ASCII char representation without using language building in feature.
+ * ex. input interger 1234, return "1234" in string or characters
+ */
 public class AsciiCodeGen {
 
     public static void main(String[] args) {
