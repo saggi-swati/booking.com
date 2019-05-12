@@ -11,7 +11,7 @@ public class PairProgramming {
     }
 
     /**
-     * Maximum no of platforms on a railway station, if we are giving arrival time and departure time of Train
+     * Minimum Number of Platforms Required for a Railway/Bus Station given the arrival and departure time.
      */
     private static int findPlatform(int[] arr, int[] dep, int n) {
         int plat_needed = 1, res = 1;
