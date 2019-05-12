@@ -22,9 +22,8 @@ public class SubArrayToSum {
             arrSum+=arr[i];
         }
     }
-
-    @Test
-    public  void main() {
+    
+    public static void main(String[] args) {
         int sum = 20;
 
         int[] arr = {10, 15, 19, 4, 7, 8, 1, 19, 16, 18, 1};
